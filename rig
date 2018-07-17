@@ -13,7 +13,7 @@ globalmem 4300
 globalfan 90
 globalpowertune 105
 autoreboot 3
-custompanel publicsecret
+custompanel 123456123456
 lockscreen enabled
 globaldesktop enabled
 globalname devrig
